@@ -206,6 +206,19 @@
   margin-bottom: 0;
 }
 
+.latest>article>ul>li>a:hover {
+  color: #7A7A7A;
+}
+
+.latest>article>footer>a:hover {
+  color: #7A7A7A;
+}
+
+form>fieldset>button:hover {
+  background-color: rgba(255, 255, 255, 0);
+  border: 1px solid #fff;
+}
+
 /* Used when elements stack in smaller viewports */
 
 /* Comments */
@@ -373,6 +386,14 @@
   width: 30px;
   font-size: 16px;
   text-align: center;
+}
+
+#footer>article>p>a:hover {
+  color: #7A7A7A;
+}
+
+#footer>.one_quarter>ul>li>a:hover {
+  color: #7A7A7A;
 }
 
 /* Copyright --------------------------------------------------------------------------------------------------------------- */

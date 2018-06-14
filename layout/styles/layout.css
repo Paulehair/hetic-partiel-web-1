@@ -1227,6 +1227,7 @@ table a, #comments a {
 /* Other --------------------------------------------------------------------------------------------------------------- */
 
 @media screen and (max-width:650px) {
+  #pageintro>article>footer {}
   .scrollable {
     display: block;
     width: 100%;

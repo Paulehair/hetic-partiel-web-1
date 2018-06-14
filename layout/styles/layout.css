@@ -65,6 +65,15 @@
   text-transform: uppercase;
 }
 
+#navbar {
+  position: fixed;
+  transition: 0.5s;
+}
+
+.navbar-scroll {
+  transform: translateY(-170%);
+}
+
 /* Page Intro --------------------------------------------------------------------------------------------------------------- */
 
 #pageintro {

@@ -1,6 +1,24 @@
 @charset "utf-8";
 @import url("font-awesome.min.css");
 @import url("framework.css");
+/* Backgrounds --------------------------------------------------------------------------------------------------------------- */
+
+#bg {
+  background-image: url('./../../images/demo/backgrounds/01.png');
+}
+
+#bg-row2 {
+  background-image: url('./../../images/demo/backgrounds/02.png');
+}
+
+#bg-row3 {
+  background-image: url('./../../images/demo/backgrounds/03.png');
+}
+
+#bg-row4 {
+  background-image: url('./../../images/demo/backgrounds/04.png');
+}
+
 /* Top Bar --------------------------------------------------------------------------------------------------------------- */
 
 #topbar {
